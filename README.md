@@ -9,9 +9,8 @@
 
 # Os-HwSOLVER
 
-A premium, claymorphic AI tutor and homework assistant powered by Google's Gemini 3.0 and 2.5 multimodal models.
+A premium AI tutor and homework assistant powered by Google's Gemini 3.0 and 2.5 multimodal models.
 
-[View Demo / Report Bug](https://github.com/dovvnloading/Os-HwSOLVER/issues)
 
 <br />
 
